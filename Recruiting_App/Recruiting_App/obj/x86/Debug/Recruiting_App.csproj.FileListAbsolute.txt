@@ -1,0 +1,9 @@
+\\cs1\CSProjects\Track\Recruiting_App\Recruiting_App\bin\Debug\Recruiting_App.exe.config
+\\cs1\CSProjects\Track\Recruiting_App\Recruiting_App\obj\x86\Debug\Recruiting_App.exe
+\\cs1\CSProjects\Track\Recruiting_App\Recruiting_App\obj\x86\Debug\Recruiting_App.pdb
+\\cs1\CSProjects\Track\Recruiting_App\Recruiting_App\bin\Debug\Recruiting_App.exe
+\\cs1\CSProjects\Track\Recruiting_App\Recruiting_App\bin\Debug\Recruiting_App.pdb
+\\cs1\CSProjects\Track\Recruiting_App\Recruiting_App\obj\x86\Debug\Recruiting_App.Form1.resources
+\\cs1\CSProjects\Track\Recruiting_App\Recruiting_App\obj\x86\Debug\Recruiting_App.Properties.Resources.resources
+\\cs1\CSProjects\Track\Recruiting_App\Recruiting_App\obj\x86\Debug\Recruiting_App.csproj.GenerateResource.Cache
+\\cs1\CSProjects\Track\Recruiting_App\Recruiting_App\obj\x86\Debug\Recruiting_App.csprojResolveAssemblyReference.cache
